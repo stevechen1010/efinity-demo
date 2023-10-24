@@ -128,10 +128,11 @@
 </script>
 <style lang="sass">
 .income
+  width: 100%
   .input
     min-width: 200px
     margin: 20px 10px
   .table
-    max-width: 1200px
+    width: 100%
 </style>
   
